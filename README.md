@@ -9,7 +9,6 @@
 ![Tailwind](https://img.shields.io/badge/Style-TailwindCSS-38B2AC.svg)
 
 **无需 PyTorch/TensorFlow 推理框架，手搓 NumPy 矩阵运算实现 Vision Transformer (DINOv2) 前向传播。**
-**配备极具未来感的玻璃拟态（Glassmorphism）可视化前端，提供毫秒级图搜图体验。**
 
 [演示 Demo] · [报告 Bug] · [功能请求]
 
